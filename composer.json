@@ -1,0 +1,17 @@
+{
+  "name": "dougfabris/mjmlmail",
+  "description": "This is the unofficial MJML wordpress plugin to create full responsive and incredible e-mails from your wordpress installation.",
+  "type": "project",
+  "license": "GPL",
+  "authors": [
+    {
+      "name": "dougfabris",
+      "email": "devfabris@gmail.com"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {},
+  "autoload": {
+    "psr-4": {"Inc\\": "./inc"}
+  }
+}
